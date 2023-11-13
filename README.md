@@ -2,7 +2,7 @@
 
 🌐 Frontened Web Developer <br>
 ⭐JAVA Programmer<br>
-💡 Problem Solver
+💡 Problem Solver <br>
 📚 Engineering Scholar
 
 
